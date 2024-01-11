@@ -8,3 +8,7 @@ I explore the effects of education spending by first using a static model, follo
 Then, I combine the data for a factor analysis and conclusion. 
 
 Effects appear to be negligible, with too few data points to reliably explain the differences in GDP per capita. Further analysis should be done with larger lagged variables, difference in differences, and inclusion of trade data for greater detail in analysis. 
+
+An additional explanation for the results might also stem from the lack of data. Large swaths of data points were missing from both the available Hong Kong and China datasets. If more data becomes available, a reanalysis would be appropriate. Moreover, the accuracy and validity of data provided is difficult to evaluate , bringing data governance into the equation.
+
+Please feel free to leave a comment or suggestion!
