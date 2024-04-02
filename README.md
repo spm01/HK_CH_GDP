@@ -1,5 +1,7 @@
 # HK_CH_GDP
-A brief comparison between Hong Kong and Chinese GDP per capita between 1960 and 2010.
+A brief comparison between Hong Kong and Chinese GDP per capita between 1960 and 2010. PDF file has pretty formatting!
+
+
 The intent behind this project is to showcase the effect of education spending over time and the subsequent effect on GDP per capita. 
 Given the differences in economies, Hong Kong and China provide a unique case study on East Asian economic development due to GDP per capita being comparable in 1960, but vastly distinct by 2010. 
 
