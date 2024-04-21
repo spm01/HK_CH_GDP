@@ -215,6 +215,19 @@ Finally, further research could be done through a difference in differences anal
 
 Specifically the inclusion of additional variables would be useful in reducing omitted variables bias when developing new regression analysis.
 
+Data sources:
+
+<br>
+https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS?locations=CN
+
+<br>
+https://data.worldbank.org/indicator/SE.XPD.TOTL.GB.ZS?locations=HK
+
+<br>
+https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CN
+
+<br>
+https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=HK
 
 
 
